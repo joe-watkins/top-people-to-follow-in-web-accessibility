@@ -34,6 +34,7 @@ This is a list, in no particular order, of people to follow that contribute grea
 - Scott Vinkle [@svinkle](https://twitter.com/svinkle)
 - Dennis Gaebel [@gryghostvisuals](https://twitter.com/gryghostvisuals)
 - Cory Klatik [@cklatik](https://twitter.com/cklatik)
+- Monika Piotrowicz [@monsika](https://twitter.com/monsika)
 
 ## Companies & Organizations
 
