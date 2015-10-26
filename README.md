@@ -36,6 +36,7 @@ This is a list, in no particular order, of people to follow that contribute grea
 - Cory Klatik [@cklatik](https://twitter.com/cklatik)
 - Monika Piotrowicz [@monsika](https://twitter.com/monsika)
 - Léonie Watson [@LeonieWatson](https://twitter.com/LeonieWatson)
+- Luke McGrath [@lukejmcgrath](https://twitter.com/lukejmcgrath)
 
 ## Companies & Organizations
 
