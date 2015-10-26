@@ -1,4 +1,4 @@
-## Top people to follow in Web Accessibility
+## Top People to Follow in Web Accessibility
 
 This is a list, in no particular order, of people to follow that contribute greatly to web accessibility and web standards.
 
