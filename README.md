@@ -35,6 +35,7 @@ This is a list, in no particular order, of people to follow that contribute grea
 - Dennis Gaebel [@gryghostvisuals](https://twitter.com/gryghostvisuals)
 - Cory Klatik [@cklatik](https://twitter.com/cklatik)
 - Monika Piotrowicz [@monsika](https://twitter.com/monsika)
+- Léonie Watson [@LeonieWatson](https://twitter.com/LeonieWatson)
 
 ## Companies & Organizations
 
