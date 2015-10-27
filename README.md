@@ -50,5 +50,8 @@ This is a list, in no particular order, of people to follow that contribute grea
 - PayPal Accessibility [@PayPalInclusive](https://twitter.com/PayPalInclusive)
 - A11Y Project [@A11YProject](https://twitter.com/A11YProject)
 
+## Newsletters
+- [Accessibility Weekly](http://a11yweekly.com/)
+
 ## Contributions
 If you believe someone should be added to this list please submit a PR we'd love to add them. If you aren't hooked up with Git you can email info/at/joe-watkins.io.
