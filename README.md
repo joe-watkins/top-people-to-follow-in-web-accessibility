@@ -49,7 +49,7 @@ This is a list, in no particular order, of people to follow that contribute grea
 - Simply Accessible	[@sateaches](https://twitter.com/sateaches)
 - PayPal Accessibility [@PayPalInclusive](https://twitter.com/PayPalInclusive)
 - A11Y Project [@A11YProject](https://twitter.com/A11YProject)
-- AccessibilityOz[@AcessibilityOz](https://twitter.com/accessibilityoz)
+- AccessibilityOz [@AcessibilityOz](https://twitter.com/accessibilityoz)
 
 ## Newsletters
 - [Accessibility Weekly](http://a11yweekly.com/)
