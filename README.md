@@ -38,6 +38,7 @@ This is a list, in no particular order, of people to follow that contribute grea
 - Dale Cruse [@dalecruse](https://twitter.com/dalecruse)
 - Léonie Watson [@LeonieWatson](https://twitter.com/LeonieWatson)
 - Luke McGrath [@lukejmcgrath](https://twitter.com/lukejmcgrath)
+- Paul Adam [@pauljadam](https://twitter.com/pauljadam)
 
 ## Companies & Organizations
 
