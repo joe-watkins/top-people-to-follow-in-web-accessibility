@@ -39,6 +39,8 @@ This is a list, in no particular order, of people to follow that contribute grea
 - Léonie Watson [@LeonieWatson](https://twitter.com/LeonieWatson)
 - Luke McGrath [@lukejmcgrath](https://twitter.com/lukejmcgrath)
 - Paul Adam [@pauljadam](https://twitter.com/pauljadam)
+- Jared Smith [@jared_w_smith](https://twitter.com/jared_w_smith)
+
 
 ## Companies & Organizations
 
