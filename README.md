@@ -40,6 +40,10 @@ This is a list, in no particular order, of people to follow that contribute grea
 - Luke McGrath [@lukejmcgrath](https://twitter.com/lukejmcgrath)
 - Paul Adam [@pauljadam](https://twitter.com/pauljadam)
 - Jared Smith [@jared_w_smith](https://twitter.com/jared_w_smith)
+- Rian Rietveld [@RianRietveld](https://twitter.com/RianRietveld)
+- Graham Armfield [@coolfields](https://twitter.com/coolfields)
+- Svetlana Kouznetsova [@svknyc](https://twitter.com/svknyc)
+- Jordan Quintal [@JordanQ416](https://twitter.com/JordanQ416)
 
 
 ## Companies & Organizations
