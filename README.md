@@ -32,6 +32,7 @@ This is a list, in no particular order, of people to follow that contribute grea
 - Lucy Greco [@accessaces](https://twitter.com/accessaces)
 - Luke McGrath [@lukejmcgrath](https://twitter.com/lukejmcgrath)
 - Marcy Sutton [@marcysutton](https://twitter.com/marcysutton)
+- Michiel Bijl [@MichielBijl](https://twitter.com/MichielBijl)
 - Mike Paciello	[@mpaciello](https://twitter.com/mpaciello)
 - Monika Piotrowicz [@monsika](https://twitter.com/monsika)
 - Neil Milliken	[@NeilMilliken](https://twitter.com/NeilMilliken)
