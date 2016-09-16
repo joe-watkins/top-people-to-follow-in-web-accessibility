@@ -1,6 +1,6 @@
 ## Top People to Follow in Web Accessibility
 
-This is a list, in no particular order, of people to follow that contribute greatly to web accessibility and web standards.
+This is a list, in alphabetical order, of people to follow that contribute greatly to web accessibility and web standards.
 
 ## People
 
@@ -16,6 +16,7 @@ This is a list, in no particular order, of people to follow that contribute grea
 - Derek Featherstone [@feather](https://twitter.com/feather)
 - Dylan Barrell	[@dylanbarrell](https://twitter.com/dylanbarrell)
 - Eliza Greenwood [@E_lizaG](https://twitter.com/E_lizaG)
+- Elle Waters [@Nethermind](https://twitter.com/Nethermind)
 - Graham Armfield [@coolfields](https://twitter.com/coolfields)
 - Greg Tarnoff [@gregtarnoff](https://twitter.com/gregtarnoff)
 - Heydon Pickering [@heydonworks](https://twitter.com/heydonworks)
