@@ -33,6 +33,7 @@ This is a list, in alphabetical order, of people to follow that contribute great
 - Léonie Watson [@LeonieWatson](https://twitter.com/LeonieWatson)
 - Lucy Greco [@accessaces](https://twitter.com/accessaces)
 - Luke McGrath [@lukejmcgrath](https://twitter.com/lukejmcgrath)
+- Maro Zehe [@MarcoInEnglish](https://twitter.com/MarcoInEnglish)  
 - Marcy Sutton [@marcysutton](https://twitter.com/marcysutton)
 - Michiel Bijl [@MichielBijl](https://twitter.com/MichielBijl)
 - Mike Paciello	[@mpaciello](https://twitter.com/mpaciello)
