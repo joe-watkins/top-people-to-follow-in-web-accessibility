@@ -26,7 +26,6 @@ This is a list, in alphabetical order, of people to follow that contribute great
 - Joe Dolson [@joedolson](https://twitter.com/joedolson)
 - John Foliot [@johnfoliot](https://twitter.com/johnfoliot)
 - Jonathan Hassell	[@jonhassell](https://twitter.com/jonhassell)
-- Jordan Quintal [@JordanQ416](https://twitter.com/JordanQ416)
 - Joseph Karr O'Connor [@AccessibleJoe](https://twitter.com/AccessibleJoe)
 - Karl Groves [@karlgroves](https://twitter.com/karlgroves)
 - Lainey Feingold [@LFLegal](https://twitter.com/LFLegal)
