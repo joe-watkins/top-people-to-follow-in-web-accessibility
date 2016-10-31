@@ -53,7 +53,7 @@ This is a list, in alphabetical order, of people to follow that contribute great
 ## Companies & Organizations
 
 - Paciello Group [@paciellogroup](https://twitter.com/paciellogroup)
-- Deque Systems [@dequesystems](http://www.deque.com/)
+- Deque Systems [@dequesystems](https://twitter.com/dequesystems)
 - IBMAccess [@IBMAccess](https://twitter.com/IBMAccess)
 - Microsoft Access	[@MSFTEnable](https://twitter.com/MSFTEnable)
 - 3play Media	[@3playmedia](https://twitter.com/3playmedia)
