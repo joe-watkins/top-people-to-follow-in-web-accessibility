@@ -14,6 +14,7 @@ This is a list, in alphabetical order, of people to follow that contribute great
 - Dennis Gaebel [@gryghostvisuals](https://twitter.com/gryghostvisuals)
 - Dennis Lembrée	[@dennisl](https://twitter.com/dennisl)
 - Derek Featherstone [@feather](https://twitter.com/feather)
+- Devon Persing [@devonpersing](https://twitter.com/devonpersing)
 - Dylan Barrell	[@dylanbarrell](https://twitter.com/dylanbarrell)
 - Eliza Greenwood [@E_lizaG](https://twitter.com/E_lizaG)
 - Elle Waters [@Nethermind](https://twitter.com/Nethermind)
