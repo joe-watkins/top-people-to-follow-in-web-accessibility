@@ -66,6 +66,7 @@ This is a list, in alphabetical order, of people to follow that contribute great
 
 ## Newsletters
 - [Accessibility Weekly](http://a11yweekly.com/)
+- [t12t Accessibility Newsletter](http://t12t.se/accessibility-newsletter/)
 
 ## Contributions
 If you believe someone should be added to this list please submit a PR we'd love to add them. If you aren't hooked up with Git you can email info/at/joe-watkins.io.
