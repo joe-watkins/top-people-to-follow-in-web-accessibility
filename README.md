@@ -24,6 +24,7 @@ This is a list, in alphabetical order, of people to follow that contribute great
 - Jared Smith [@jared_w_smith](https://twitter.com/jared_w_smith)
 - Jeffrey Zeldman [@zeldman](https://twitter.com/zeldman)
 - Jen Simmons [@jensimmons](https://twitter.com/jensimmons)
+- JoAnna Hunt [@johunt0311](https://twitter.com/johunt0311)
 - Joe Dolson [@joedolson](https://twitter.com/joedolson)
 - John Foliot [@johnfoliot](https://twitter.com/johnfoliot)
 - Jonathan Hassell [@jonhassell](https://twitter.com/jonhassell)
