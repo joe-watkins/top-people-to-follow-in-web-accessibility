@@ -46,6 +46,7 @@ This is a list, in alphabetical order, of people to follow that contribute great
 - Paul Adam [@pauljadam](https://twitter.com/pauljadam)
 - Rian Rietveld [@RianRietveld](https://twitter.com/RianRietveld)
 - Sarah Horton [@gradualclearing](https://twitter.com/gradualclearing)
+- Scott O'Hara [@scottohara](https://twitter.com/scottohara)
 - Scott Vinkle [@svinkle](https://twitter.com/svinkle)
 - Shawn Lauriat [@slauriat](https://twitter.com/slauriat)
 - Sina Bahram	[@SinaBahram](https://twitter.com/SinaBahram)
