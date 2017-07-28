@@ -44,6 +44,7 @@ This is a list, in alphabetical order, of people to follow that contribute great
 - Neil Milliken	[@NeilMilliken](https://twitter.com/NeilMilliken)
 - Patrick Fox	[@patrickfox](https://twitter.com/patrickfox)
 - Paul Adam [@pauljadam](https://twitter.com/pauljadam)
+- Rachel Carden [@bamadesigner](https://twitter.com/bamadesigner)
 - Rian Rietveld [@RianRietveld](https://twitter.com/RianRietveld)
 - Sarah Horton [@gradualclearing](https://twitter.com/gradualclearing)
 - Scott O'Hara [@scottohara](https://twitter.com/scottohara)
