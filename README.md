@@ -39,6 +39,7 @@ This is a list, in alphabetical order, of people to follow that contribute great
 - Joseph Karr O'Connor [@AccessibleJoe](https://twitter.com/AccessibleJoe)
 - Karl Groves [@karlgroves](https://twitter.com/karlgroves)
 - Lainey Feingold [@LFLegal](https://twitter.com/LFLegal)
+- Laura Kalbag [@laurakalbag](https://twitter.com/laurakalbag)
 - Léonie Watson [@LeonieWatson](https://twitter.com/LeonieWatson)
 - Lucy Greco [@accessaces](https://twitter.com/accessaces)
 - Luke McGrath [@lukejmcgrath](https://twitter.com/lukejmcgrath)
