@@ -81,6 +81,7 @@ This is a list, in alphabetical order, of people to follow that contribute great
 - Paciello Group [@paciellogroup](https://twitter.com/paciellogroup)
 - PayPal Accessibility [@PayPalInclusive](https://twitter.com/PayPalInclusive)
 - Simply Accessible [@sateaches](https://twitter.com/sateaches)
+- Twitter A11y [@TwitterA11y](https://twitter.com/TwitterA11y)
 - Web Axe [@webaxe](https://twitter.com/webaxe)
 - WebAIM [@webaim](https://twitter.com/webaim)
 - WPAccessibility Team [@WPAccessibility](https://twitter.com/WPAccessibility)
