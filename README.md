@@ -30,6 +30,7 @@ This is a list, in alphabetical order, of people to follow that contribute great
 - Jason Kiss [@jkiss](https://twitter.com/jkiss)
 - Jeffrey Zeldman [@zeldman](https://twitter.com/zeldman)
 - Jen Simmons [@jensimmons](https://twitter.com/jensimmons)
+- Jennison Asuncion [@Jennison](https://twitter.com/Jennison)
 - JoAnna Hunt [@johunt0311](https://twitter.com/johunt0311)
 - Joe Dolson [@joedolson](https://twitter.com/joedolson)
 - John Foliot [@johnfoliot](https://twitter.com/johnfoliot)
@@ -46,6 +47,7 @@ This is a list, in alphabetical order, of people to follow that contribute great
 - Marco Zehe [@MarcoInEnglish](https://twitter.com/MarcoInEnglish) 
 - Marcy Sutton [@marcysutton](https://twitter.com/marcysutton)
 - Michiel Bijl [@MichielBijl](https://twitter.com/MichielBijl)
+- Mike Gifford [@mgifford](https://twitter.com/mgifford)
 - Mike Paciello [@mpaciello](https://twitter.com/mpaciello)
 - Monika Piotrowicz [@monsika](https://twitter.com/monsika)
 - Nat Tarnoff [@nattarnoff](https://twitter.com/nattarnoff)
@@ -90,6 +92,7 @@ This is a list, in alphabetical order, of people to follow that contribute great
 ## Books
 
 - [A Web for Everyone](http://rosenfeldmedia.com/books/a-web-for-everyone) by Sarah Horton & Whitney Quesenbery
+- [Accessibility for Everyone](https://abookapart.com/products/accessibility-for-everyone) by Laura Kalbag
 - [Adaptive Web Design](https://adaptivewebdesign.info) by Aaron Gustafson
 - [Color Accessibility Workflows](https://abookapart.com/products/color-accessibility-workflows) by Geri Coady
 - [Designing for Real Life](https://abookapart.com/products/design-for-real-life) by Sara Wachter-Boettcher and Eric Meyer
