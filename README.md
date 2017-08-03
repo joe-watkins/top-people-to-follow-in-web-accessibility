@@ -9,6 +9,7 @@ This is a list, in alphabetical order, of people to follow that contribute great
 - Andrea Skeries [@Artistic_Abode](https://twitter.com/Artistic_Abode)
 - Billy Gregory [@thebillygregory](https://twitter.com/thebillygregory)
 - Cory Klatik [@cklatik](https://twitter.com/cklatik)
+- Cordelia McGee-Tubb [@cordeliadillon](https://twitter.com/cordeliadillon)
 - Dale Cruse [@dalecruse](https://twitter.com/dalecruse)
 - Dave Rupert [@davatron5000](https://twitter.com/davatron5000)
 - David A. Kennedy [@davidakennedy](https://twitter.com/davidakennedy)
