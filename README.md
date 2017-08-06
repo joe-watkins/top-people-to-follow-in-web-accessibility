@@ -45,7 +45,7 @@ This is a list, in alphabetical order, of people to follow that contribute great
 - Léonie Watson [@LeonieWatson](https://twitter.com/LeonieWatson)
 - Lucy Greco [@accessaces](https://twitter.com/accessaces)
 - Luke McGrath [@lukejmcgrath](https://twitter.com/lukejmcgrath)
-- Marco Zehe [@MarcoInEnglish](https://twitter.com/MarcoInEnglish) 
+- Marco Zehe [@MarcoInEnglish](https://twitter.com/MarcoInEnglish)
 - Marcy Sutton [@marcysutton](https://twitter.com/marcysutton)
 - Michiel Bijl [@MichielBijl](https://twitter.com/MichielBijl)
 - Mike Gifford [@mgifford](https://twitter.com/mgifford)
@@ -90,7 +90,9 @@ This is a list, in alphabetical order, of people to follow that contribute great
 - WebAIM [@webaim](https://twitter.com/webaim)
 - WPAccessibility Team [@WPAccessibility](https://twitter.com/WPAccessibility)
 
-## Books
+## Additional Resources
+
+### Books
 
 - [A Web for Everyone](http://rosenfeldmedia.com/books/a-web-for-everyone) by Sarah Horton & Whitney Quesenbery
 - [Accessibility for Everyone](https://abookapart.com/products/accessibility-for-everyone) by Laura Kalbag
@@ -99,9 +101,12 @@ This is a list, in alphabetical order, of people to follow that contribute great
 - [Designing for Real Life](https://abookapart.com/products/design-for-real-life) by Sara Wachter-Boettcher and Eric Meyer
 - [Inclusive Design Patterns](https://shop.smashingmagazine.com/products/inclusive-design-patterns) by Heydon Pickering
 
-## Newsletters
+### Newsletters
 - [Accessibility Weekly](http://a11yweekly.com/)
 - [t12t Accessibility Newsletter](http://t12t.se/accessibility-newsletter/)
+
+### Courses
+- [Accessibility courses](https://github.com/mgifford/a11y-courses)
 
 ## Contributions
 If you believe someone should be added to this list please submit a PR we'd love to add them. If you aren't hooked up with Git you can email info/at/joe-watkins.io.
