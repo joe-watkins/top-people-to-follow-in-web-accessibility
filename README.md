@@ -90,6 +90,16 @@ This is a list, in alphabetical order, of people to follow that contribute great
 - WebAIM [@webaim](https://twitter.com/webaim)
 - WPAccessibility Team [@WPAccessibility](https://twitter.com/WPAccessibility)
 
+## Meetups
+
+- #a11yTO [@a11yTO](https://twitter.com/a11yTO)
+- A11YChi Meetup [@A11YCh](https://twitter.com/A11YChi)
+- a11yMTL [@a11yMTL](https://twitter.com/a11yMTL)
+- A11ySEA [@a11ysea](https://twitter.com/a11ysea)
+- Accessibility Ottawa [@a11yYOW](https://twitter.com/a11yYOW)
+- role=drinks [@roledrinks](https://twitter.com/roledrinks)
+- WebA11y.jp［エーイレブンワイ］[@weba11y](https://twitter.com/weba11y)
+
 ## Additional Resources
 
 ### Books
