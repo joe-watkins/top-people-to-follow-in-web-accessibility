@@ -16,6 +16,7 @@ This is a list, in alphabetical order, of people to follow that contribute great
 - Dale Cruse [@dalecruse](https://twitter.com/dalecruse)
 - Dave Rupert [@davatron5000](https://twitter.com/davatron5000)
 - David A. Kennedy [@davidakennedy](https://twitter.com/davidakennedy)
+- Deborah Edwards-Onoro [@redcrew](https://twitter.com/redcrew)
 - Debra Ruh [@debraruh](https://twitter.com/debraruh)
 - Denis Boudreau [@dboudreau](https://twitter.com/dboudreau)
 - Dennis Gaebel [@gryghostvisuals](https://twitter.com/gryghostvisuals)
