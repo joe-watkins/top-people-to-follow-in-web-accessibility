@@ -32,6 +32,7 @@ This is a list, in alphabetical order, of people to follow that contribute great
 - Jason Kiss [@jkiss](https://twitter.com/jkiss)
 - Jeffrey Zeldman [@zeldman](https://twitter.com/zeldman)
 - Jen Simmons [@jensimmons](https://twitter.com/jensimmons)
+- Jennifer Sutton [@jsutt](https://twitter.com/jsutt)
 - Jennison Asuncion [@Jennison](https://twitter.com/Jennison)
 - JoAnna Hunt [@johunt0311](https://twitter.com/johunt0311)
 - Joe Dolson [@joedolson](https://twitter.com/joedolson)
