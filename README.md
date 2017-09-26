@@ -6,7 +6,9 @@ This is a list, in alphabetical order, of people to follow that contribute great
 
 - Adrian Roselli [@aardrian](https://twitter.com/aardrian)
 - Alice Boxhall [@sundress](https://twitter.com/sundress)
+- Alistair Duggin [@dugboticus](https://twitter.com/dugboticus)
 - Andrea Skeries [@Artistic_Abode](https://twitter.com/Artistic_Abode)
+- Andrew Arch [@amja](https://twitter.com/amja)
 - Billy Gregory [@thebillygregory](https://twitter.com/thebillygregory)
 - Carie Fisher [@cariefisher](https://twitter.com/cariefisher)
 - Cory Klatik [@cklatik](https://twitter.com/cklatik)
@@ -84,6 +86,7 @@ This is a list, in alphabetical order, of people to follow that contribute great
 - Google Accessibility [@googleaccess](https://twitter.com/googleaccess)
 - IBMAccess [@IBMAccess](https://twitter.com/IBMAccess)
 - Inclusive Components [@inclusicomps](https://twitter.com/inclusicomps)
+- Intopia [@IntopiaDigital](https://twitter.com/Intopiadigital)
 - Knowbility [@knowbility](https://twitter.com/knowbility)
 - Level Access [@LevelAccessA11y](https://twitter.com/LevelAccessA11y)
 - Microsoft Access [@MSFTEnable](https://twitter.com/MSFTEnable)
