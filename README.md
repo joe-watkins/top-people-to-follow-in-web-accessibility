@@ -35,6 +35,7 @@ This is a list, in alphabetical order, of people to follow that contribute great
 - Jennison Asuncion [@Jennison](https://twitter.com/Jennison)
 - JoAnna Hunt [@johunt0311](https://twitter.com/johunt0311)
 - Joe Dolson [@joedolson](https://twitter.com/joedolson)
+- Joe Watkins [@_josephwatkins](https://twitter.com/_josephwatkins)
 - John Foliot [@johnfoliot](https://twitter.com/johnfoliot)
 - Jonathan Hassell [@jonhassell](https://twitter.com/jonhassell)
 - Jonny James [@heresjonnyjames](https://twitter.com/heresjonnyjames)
