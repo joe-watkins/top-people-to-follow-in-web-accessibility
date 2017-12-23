@@ -54,6 +54,7 @@ This is a list, in alphabetical order, of people to follow that contribute great
 - Karl Groves [@karlgroves](https://twitter.com/karlgroves)
 - Kathy Wahlbin [@wahlbin](https://twitter.com/wahlbin)
 - Lainey Feingold [@LFLegal](https://twitter.com/LFLegal)
+- Laura Carlson [@laura_carlson](https://twitter.com/laura_carlson)
 - Laura Kalbag [@laurakalbag](https://twitter.com/laurakalbag)
 - Léonie Watson [@LeonieWatson](https://twitter.com/LeonieWatson)
 - Lucy Greco [@accessaces](https://twitter.com/accessaces)
