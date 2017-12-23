@@ -144,6 +144,7 @@ This is a list, in alphabetical order, of people to follow that contribute great
 ### Newsletters
 - [Accessibility Weekly](http://a11yweekly.com/)
 - [t12t Accessibility Newsletter](http://t12t.se/accessibility-newsletter/)
+- [Web Design Update](http://www.d.umn.edu/itss/training/online/webdesign/webdev_listserv.html#subscribe)
 
 ### Courses
 - [Accessibility courses](https://github.com/mgifford/a11y-courses)
