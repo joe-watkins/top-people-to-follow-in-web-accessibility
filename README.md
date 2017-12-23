@@ -104,7 +104,6 @@ This is a list, in alphabetical order, of people to follow that contribute great
 - Microsoft Access [@MSFTEnable](https://twitter.com/MSFTEnable)
 - Open Inclusion [@openforaccess](https://twitter.com/openforaccess)
 - Paciello Group [@paciellogroup](https://twitter.com/paciellogroup)
-- PayPal Accessibility [@PayPalInclusive](https://twitter.com/PayPalInclusive)
 - Simply Accessible [@sateaches](https://twitter.com/sateaches)
 - Twitter A11y [@TwitterA11y](https://twitter.com/TwitterA11y)
 - Web Axe [@webaxe](https://twitter.com/webaxe)
