@@ -33,6 +33,7 @@ This is a list, in alphabetical order, of people to follow that contribute great
 - Estelle Weyl [@estellevw](https://twitter.com/estellevw)
 - Glenda Sims [@goodwitch](https://twitter.com/goodwitch)
 - Graham Armfield [@coolfields](https://twitter.com/coolfields)
+- Helena McCabe [@misshelenasue](https://twitter.com/misshelenasue)
 - Henny Swan [@iheni](https://twitter.com/iheni)
 - Heydon Pickering [@heydonworks](https://twitter.com/heydonworks)
 <!-- - Janina Sajka []()-->
