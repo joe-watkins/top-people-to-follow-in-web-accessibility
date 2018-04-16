@@ -36,7 +36,6 @@ This is a list, in alphabetical order, of people to follow that contribute great
 - Helena McCabe [@misshelenasue](https://twitter.com/misshelenasue)
 - Henny Swan [@iheni](https://twitter.com/iheni)
 - Heydon Pickering [@heydonworks](https://twitter.com/heydonworks)
-<!-- - Janina Sajka []()-->
 - Jamie Knight [@JamieKnight](https://twitter.com/JamieKnight)
 - Jared Smith [@jared_w_smith](https://twitter.com/jared_w_smith)
 - Jason Kiss [@jkiss](https://twitter.com/jkiss)
