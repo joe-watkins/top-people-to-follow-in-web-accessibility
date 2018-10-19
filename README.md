@@ -13,7 +13,7 @@ This is a list, in alphabetical order, of people to follow that contribute great
 - Becky Gibson [@becka11y](https://twitter.com/becka11y)
 - Billy Gregory [@thebillygregory](https://twitter.com/thebillygregory)
 - Carie Fisher [@cariefisher](https://twitter.com/cariefisher)
-- Cory Klatik [@cklatik](https://twitter.com/cklatik)
+- Cory Klatik [@coryj206](https://twitter.com/coryj206)
 - Cordelia McGee-Tubb [@cordeliadillon](https://twitter.com/cordeliadillon)
 - Cynthia Shelly [@cyns](https://twitter.com/cyns)
 - Dave Rupert [@davatron5000](https://twitter.com/davatron5000)
@@ -123,7 +123,7 @@ This is a list, in alphabetical order, of people to follow that contribute great
 
 - #a11yTO [@a11yTO](https://twitter.com/a11yTO)
 - a11yBytes [@a11ybytes](https://twitter.com/a11ybytes)
-- A11YChi Meetup [@A11YCh](https://twitter.com/A11YChi)
+- A11YChi Meetup [@A11YChi](https://twitter.com/A11YChi)
 - a11yEdinburgh [@a11yEdinburgh](https://twitter.com/a11yedinburgh/)
 - a11yLondon [@a11yLondon](https://twitter.com/a11yLondon)
 - a11yMTL [@a11yMTL](https://twitter.com/a11yMTL)
