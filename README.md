@@ -13,7 +13,7 @@ This is a list, in alphabetical order, of people to follow that contribute great
 - Becky Gibson [@becka11y](https://twitter.com/becka11y)
 - Billy Gregory [@thebillygregory](https://twitter.com/thebillygregory)
 - Carie Fisher [@cariefisher](https://twitter.com/cariefisher)
-- Cory Klatik [@cklatik](https://twitter.com/cklatik)
+- Cory Klatik [@coryj206](https://twitter.com/coryj206)
 - Cordelia McGee-Tubb [@cordeliadillon](https://twitter.com/cordeliadillon)
 - Cynthia Shelly [@cyns](https://twitter.com/cyns)
 - Dave Rupert [@davatron5000](https://twitter.com/davatron5000)
