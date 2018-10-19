@@ -123,7 +123,7 @@ This is a list, in alphabetical order, of people to follow that contribute great
 
 - #a11yTO [@a11yTO](https://twitter.com/a11yTO)
 - a11yBytes [@a11ybytes](https://twitter.com/a11ybytes)
-- A11YChi Meetup [@A11YCh](https://twitter.com/A11YChi)
+- A11YChi Meetup [@A11YChi](https://twitter.com/A11YChi)
 - a11yEdinburgh [@a11yEdinburgh](https://twitter.com/a11yedinburgh/)
 - a11yLondon [@a11yLondon](https://twitter.com/a11yLondon)
 - a11yMTL [@a11yMTL](https://twitter.com/a11yMTL)
