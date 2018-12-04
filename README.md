@@ -60,6 +60,7 @@ This is a list, in alphabetical order, of people to follow that contribute great
 - Luke McGrath [@lukejmcgrath](https://twitter.com/lukejmcgrath)
 - Marco Zehe [@MarcoInEnglish](https://twitter.com/MarcoInEnglish)
 - Marcy Sutton [@marcysutton](https://twitter.com/marcysutton)
+- Michael Spellacy [@spellacy](https://twitter.com/spellacy)
 - Michiel Bijl [@MichielBijl](https://twitter.com/MichielBijl)
 - Mike Gifford [@mgifford](https://twitter.com/mgifford)
 - Mike Paciello [@mpaciello](https://twitter.com/mpaciello)
