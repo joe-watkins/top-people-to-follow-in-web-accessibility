@@ -50,6 +50,7 @@ This is a list, in alphabetical order, of people to follow that contribute great
 - Jonny James [@heresjonnyjames](https://twitter.com/heresjonnyjames)
 - Joseph Karr O'Connor [@AccessibleJoe](https://twitter.com/AccessibleJoe)
 - Jules Ernst [@JulezRulez](https://twitter.com/JulezRulez)
+- Julianna Rowsell [@JuliannaRowsell](https://twitter.com/JuliannaRowsell)
 - Karl Groves [@karlgroves](https://twitter.com/karlgroves)
 - Kathy Wahlbin [@wahlbin](https://twitter.com/wahlbin)
 - Lainey Feingold [@LFLegal](https://twitter.com/LFLegal)
