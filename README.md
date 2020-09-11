@@ -118,5 +118,8 @@ This is a list, in alphabetical order, of people to follow that contribute great
 ### Courses
 - [Accessibility courses](https://github.com/mgifford/a11y-courses)
 
+### Podcasts
+- [A11y Rules Podcast](https://a11yrules.com)
+
 ## Contributions
 If you believe someone should be added to this list please submit a PR we'd love to add them. If you aren't hooked up with Git you can email info/at/joe-watkins.io.
