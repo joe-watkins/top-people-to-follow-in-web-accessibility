@@ -17,6 +17,7 @@ This is a list, in alphabetical order, of people to follow that contribute great
 - Cordelia McGee-Tubb [@cordeliadillon](https://twitter.com/cordeliadillon)
 - Cynthia Shelly [@cyns](https://twitter.com/cyns)
 - Dave Rupert [@davatron5000](https://twitter.com/davatron5000)
+- David Sloan [@sloandr](https://twitter.com/sloandr)
 - David A. Kennedy [@davidakennedy](https://twitter.com/davidakennedy)
 - Deborah Edwards-Onoro [@redcrew](https://twitter.com/redcrew)
 - Debra Ruh [@debraruh](https://twitter.com/debraruh)
