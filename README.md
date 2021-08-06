@@ -101,6 +101,7 @@ This is a list, in alphabetical order, of people to follow that contribute great
 - Accessible Techcomm [@AccessTechcomm](https://twitter.com/AccessTechcomm)
 - Axess Lab [@AxessLab](https://twitter.com/AxessLab)
 - Deque Systems [@dequesystems](https://twitter.com/dequesystems)
+- Easy Chirp [@EasyChirp](https://twitter.com/EasyChirp)
 - Google Accessibility [@googleaccess](https://twitter.com/googleaccess)
 - IBMAccess [@IBMAccess](https://twitter.com/IBMAccess)
 - Inclusive Components [@inclusicomps](https://twitter.com/inclusicomps)
@@ -120,7 +121,6 @@ This is a list, in alphabetical order, of people to follow that contribute great
 - Web Axe [@webaxe](https://twitter.com/webaxe)
 - WebAIM [@webaim](https://twitter.com/webaim)
 - WPAccessibility Team [@WPAccessibility](https://twitter.com/WPAccessibility)
-
 
 ## Meetups
 
