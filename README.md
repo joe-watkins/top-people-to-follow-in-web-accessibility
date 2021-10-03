@@ -15,7 +15,7 @@ This is a list, in alphabetical order, of people to follow that contribute great
 - Billy Gregory [@thebillygregory](https://twitter.com/thebillygregory)
 - Carie Fisher [@cariefisher](https://twitter.com/cariefisher)
 - Charles Hall [@atCharlesHall](https://twitter.com/atCharlesHall)
-- Chris DeMars [@saltnburnem](https://twitter.com.saltnburnem)
+- Chris DeMars [@saltnburnem](https://twitter.com/saltnburnem)
 - Claudia Nascimento [@claumartin](https://twitter.com/claumartin)
 - Cory Klatik [@coryj206](https://twitter.com/coryj206)
 - Cordelia McGee-Tubb [@cordeliadillon](https://twitter.com/cordeliadillon)
