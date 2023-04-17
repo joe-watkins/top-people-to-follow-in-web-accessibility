@@ -104,7 +104,6 @@ This is a list, in alphabetical order, of people to follow that contribute great
 - Stefan Judis [@stefanjudis](https://twitter.com/stefanjudis)
 - Steph Slattery [@sublimemarch](https://twitter.com/sublimemarch)
 - Steve Faulkner [@stevefaulkner](https://twitter.com/stevefaulkner)
-- Steven Hoober [@shoobe01](https://twitter.com/shoobe01)
 - Suz Hinton [@noopkat](https://twitter.com/noopkat)
 - Svetlana Kouznetsova [@svknyc](https://twitter.com/svknyc)
 - Ted Drake [@ted_drake](https://twitter.com/ted_drake)
