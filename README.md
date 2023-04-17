@@ -195,4 +195,4 @@ This is a list, in alphabetical order, of people to follow that contribute great
 
 
 ## Contributions
-If you believe someone should be added to this list please submit a PR we'd love to add them. If you aren't hooked up with Git you can email info/at/joe-watkins.io.
+If you believe someone should be added to this list please submit a PR we'd love to add them.
