@@ -38,7 +38,7 @@ This is a list, in alphabetical order, of people to follow that contribute great
 - Elle Waters [linkedin@nethermind](https://linkedin.com/in/nethermind)
 - Eric Bailey [@ericwbailey](https://twitter.com/ericwbailey)
 - Eric Eggert [yatil.social/@yatil](https://yatil.social/@yatil)
-- Estelle Weyl [@estellevw](https://twitter.com/estellevw)
+- Estelle Weyl [front-end.social@estelle](https://front-end.social@estelle)
 - Gareth Ford Williams [@GarethFW](https://twitter.com/GarethFW)
 - Glenda Sims [@goodwitch](https://twitter.com/goodwitch)
 - Graham Armfield [@coolfields](https://twitter.com/coolfields)
